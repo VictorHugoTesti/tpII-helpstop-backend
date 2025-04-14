@@ -1,7 +1,7 @@
 ﻿using HelpApp.Domain.Entities;
 using HelpApp.Domain.Validation;
 
-namespace StockApp.Domain.Entities
+namespace HelpApp.Domain.Entities
 {
     public class Product
     {
